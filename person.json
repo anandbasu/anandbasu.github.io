@@ -1,4 +1,5 @@
-[
+{
+"people": [
   {
      "firstName": "John",
      "lastName" : "Murkey",
@@ -13,5 +14,6 @@
   "firstName": "Bernie",
   "lastName" : "Sanders",
   "organization" : "Medicare for All"
-}
+ }
 ]
+}
