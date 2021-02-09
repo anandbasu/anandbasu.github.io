@@ -3,17 +3,20 @@
   {
      "firstName": "Joe",
      "lastName" : "Biden",
-     "organization" : "AARP"
+     "organization" : "AARP",
+     "phone": "202-555-1212"
   },
   {
     "firstName": "Bugsey",
     "lastName" : "Lawler",
-    "organization" : "Hewy, Dewey, and Louie"
+    "organization" : "Hewy, Dewey, and Louie",
+    "phone" : "301-555-1212"
  },
  {
   "firstName": "Bernie",
   "lastName" : "Sanders",
-  "organization" : "Medicare for All"
+  "organization" : "Medicare for All",
+  "phone": "201-555-1212"   
  }
 ]
 }
