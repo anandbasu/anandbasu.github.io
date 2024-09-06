@@ -1,0 +1,5 @@
+[
+    {
+       "id": 1, "name": "CS 101", "Instructor": "Bill Gates", "credits": 3.0, "isOpen": true
+    }
+]
