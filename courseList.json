@@ -1,5 +1,32 @@
 [
     {
-       "id": 1, "name": "CS 101", "Instructor": "Bill Gates", "credits": 3.0, "isOpen": true
-    }
+        "id": "CS101", "name": "Introduction to MS Word", "Instructor": "Bill Gates", "credits": 3.0, "isOpen": true
+     },
+     {
+        "id": "CS201", "name": "iPhone Apps", "Instructor": "Steve Jobs", "credits": 3.5, "isOpen": true
+     },
+     {
+        "id": "CS301", "name": "C++ Programming", "Instructor": "Bjarne Stroustrup", "credits": 4.0, "isOpen": true
+     },
+     {
+        "id": "CK101", "name": "Cooking 101", "Instructor": "Jamie Oliver", "credits": 3.0, "isOpen": true
+     },
+     {
+        "id": "CK102", "name": "Basic Basque Cooking", "Instructor": "Jose Andres", "credits": 3.5, "isOpen": true
+     },
+     {
+        "id": "CK201", "name": "Advanced Frech Cooking", "Instructor": "Jacques Pepin", "credits": 4.0, "isOpen": true
+     },
+     {
+        "id": "DS101", "name": "Data Science and AI", "Instructor": "Andrew Ng", "credits": 4.0, "isOpen": true
+     },
+     {
+        "id": "DS201", "name": "Generative AI", "Instructor": "Bill Gates", "credits": 3.0
+     },
+     {
+        "id": "DS301", "name": "Build your own Chatbot", "Instructor": "Bill Gates", "credits": 4.0
+     },
+     {
+        "id": "MV101", "name": "Writing Movie Critiques", "Instructor": "James Joyce", "credits": 3.0, "isOpen": true
+     }
 ]
