@@ -12,7 +12,7 @@
         "id": "CK101", "name": "Cooking 101", "Instructor": "Jamie Oliver", "credits": 3.0, "isOpen": true
      },
      {
-        "id": "CK102", "name": "Basic Basque Cooking", "Instructor": "Jose Andres", "credits": 3.5, "isOpen": true
+        "id": "CK102", "name": "Basic Basque Cooking", "Instructor": "Jose Andres", "credits": 3.5, "isOpen": false
      },
      {
         "id": "CK201", "name": "Advanced Frech Cooking", "Instructor": "Jacques Pepin", "credits": 4.0, "isOpen": true
